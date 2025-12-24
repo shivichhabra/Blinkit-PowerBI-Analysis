@@ -24,7 +24,7 @@ This project analyzes Blinkit's sales performance, product metrics, and customer
 
 ## Dashboard Preview 
 ![Dashboard Preview](Dashboard preview.jpg)
-🔍 **[View full-size dashboard image](Dashboard preview.jpg)**
+ **[View full-size dashboard image](Dashboard_preview.jpg)**
 
 ## Files Included 📂
 - `.pbix` file – Interactive Power BI dashboard
