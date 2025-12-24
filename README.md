@@ -31,5 +31,8 @@ This project analyzes Blinkit's sales performance, product metrics, and customer
 - `.jpg` – Dashboard snapshot for quick viewing
 - Business insights document
 
-## Insights Summary 📈 
-Detailed insights are documented separately.
+## Business Insights 📄
+
+Detailed business insights and recommendations derived from the Power BI dashboard are documented below:
+ **[View Business Insights Report](Business_Insights_Blinkit.pdf)**
+
