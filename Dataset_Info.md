@@ -1,4 +1,4 @@
-# Dataset Information – Blinkit Sales Analysis
+# 📁 Dataset Information – Blinkit Sales Analysis
 
 ## Data Source
 The dataset used in this project is a publicly available Blinkit sales dataset obtained for analytical and educational purposes.
@@ -7,7 +7,7 @@ The dataset used in this project is a publicly available Blinkit sales dataset o
 
 ---
 
-## Dataset Size
+## ⚙️ Dataset Size
 - Number of rows: ~8,500 records
 - Number of columns: 12
 
@@ -30,7 +30,7 @@ The dataset used in this project is a publicly available Blinkit sales dataset o
 
 ---
 
-## Assumptions & Limitations ⚠️
+## ⚠️ Assumptions & Limitations 
 - The dataset is assumed to be **clean and representative** of Blinkit’s overall sales patterns.
 - Missing values were handled using basic imputation where necessary.
 - Ratings are assumed to be provided post-purchase and reflect customer satisfaction.
@@ -38,5 +38,5 @@ The dataset used in this project is a publicly available Blinkit sales dataset o
 
 ---
 
-## Notes 📝
+## 📝 Notes 
 This dataset is intended for **analytical demonstration** and does not represent proprietary or confidential Blinkit data.
