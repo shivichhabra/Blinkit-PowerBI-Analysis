@@ -1,6 +1,6 @@
 # Dataset Information – Blinkit Sales Analysis
 
-## 📌 Data Source
+## Data Source
 The dataset used in this project is a publicly available Blinkit sales dataset obtained for analytical and educational purposes.
 
 > Source: Kaggle (Blinkit Sales Dataset)
